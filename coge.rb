@@ -1,6 +1,6 @@
 
-VER = "0.1.3"
-SHA = "6fd2f85ae4ae1ed7acbf7306f71be4990cfe9b141296acca600f2f4b19177ad9"
+VER = "0.1.4"
+SHA = "ef4499d88b37b50ef7e5726103ef5d13fc4a3cf1b0d2830910af947668d37e35"
 
 class Coge < Formula
   desc "An efficient code generator."
