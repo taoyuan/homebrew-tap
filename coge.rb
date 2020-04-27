@@ -1,11 +1,11 @@
 
-VER = "0.1.9"
-SHA = "45e57d6506da24bdc44aa9cecf511d9812066cc2abe9f1cdb36e467d0e9442ef"
+VER = "0.2.0"
+SHA = "34b60d5bcbb05326292f621385586db501f61654587ff853dfb027e4cd33a81c"
 
 class Coge < Formula
   desc "An efficient code generator."
   homepage "http://www.coge.dev"
-  url "https://github.com/taoyuan/coge/releases/download/v#{VER}/coge.macos.v#{VER}.tar.gz"
+  url "https://github.com/cogelab/coge/releases/download/v#{VER}/coge.macos.v#{VER}.tar.gz"
   version VER
   sha256 SHA
 
